@@ -1,0 +1,6 @@
+{
+  "name": "PaisaTrack",
+  "description": "Local-first, private personal finance and budget manager running completely offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
